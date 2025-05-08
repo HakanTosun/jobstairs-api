@@ -1,0 +1,6 @@
+@JobStairsApi_HostAddress = http://localhost:5122
+
+GET {{JobStairsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

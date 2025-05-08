@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobStairsApi", "JobStairsApi.csproj", "{69C26012-F17A-3863-8014-62DFB4A4F92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C26012-F17A-3863-8014-62DFB4A4F92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C26012-F17A-3863-8014-62DFB4A4F92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C26012-F17A-3863-8014-62DFB4A4F92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C26012-F17A-3863-8014-62DFB4A4F92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42FA4ACD-D6AE-4E53-9377-4E7E4CA560E2}
+	EndGlobalSection
+EndGlobal
